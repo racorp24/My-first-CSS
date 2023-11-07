@@ -1,0 +1,23 @@
+body{ 
+    background-color: crimson;
+
+}
+img{
+    width: 255px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+} 
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+    text-size-adjust: 80px;
+}
+
+h3{
+    color: whitesmoke;
+    text-align: center;
+    text-size-adjust: 40px;
+}
+
